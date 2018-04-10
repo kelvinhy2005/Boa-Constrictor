@@ -173,7 +173,7 @@ byrev.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}'
 
 <style  type="text/css" >
 </style>  
-<table id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7c" > 
+<table id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7c" > 
 <thead>    <tr> 
         <th class="blank level0" ></th> 
         <th class="col_heading level0 col0" >title</th> 
@@ -186,105 +186,105 @@ byrev.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}'
         <th class="col_heading level0 col7" >roi</th> 
     </tr></thead> 
 <tbody>    <tr> 
-        <th id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7clevel0_row0" class="row_heading level0 row0" >507</th> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow0_col0" class="data row0 col0" >Avatar</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow0_col1" class="data row0 col1" >$2,787,965,087</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow0_col2" class="data row0 col2" >$237,000,000</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow0_col3" class="data row0 col3" >Action</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow0_col4" class="data row0 col4" >December</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow0_col5" class="data row0 col5" >7.2</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow0_col6" class="data row0 col6" >9</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow0_col7" class="data row0 col7" >1076%</td> 
+        <th id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7clevel0_row0" class="row_heading level0 row0" >507</th> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow0_col0" class="data row0 col0" >Avatar</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow0_col1" class="data row0 col1" >$2,787,965,087</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow0_col2" class="data row0 col2" >$237,000,000</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow0_col3" class="data row0 col3" >Action</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow0_col4" class="data row0 col4" >December</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow0_col5" class="data row0 col5" >7.2</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow0_col6" class="data row0 col6" >9</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow0_col7" class="data row0 col7" >1076%</td> 
     </tr>    <tr> 
-        <th id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7clevel0_row1" class="row_heading level0 row1" >1603</th> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow1_col0" class="data row1 col0" >Star Wars: The Force Awakens</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow1_col1" class="data row1 col1" >$2,068,223,624</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow1_col2" class="data row1 col2" >$245,000,000</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow1_col3" class="data row1 col3" >Action</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow1_col4" class="data row1 col4" >December</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow1_col5" class="data row1 col5" >7.5</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow1_col6" class="data row1 col6" >0</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow1_col7" class="data row1 col7" >744%</td> 
+        <th id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7clevel0_row1" class="row_heading level0 row1" >1603</th> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow1_col0" class="data row1 col0" >Star Wars: The Force Awakens</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow1_col1" class="data row1 col1" >$2,068,223,624</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow1_col2" class="data row1 col2" >$245,000,000</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow1_col3" class="data row1 col3" >Action</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow1_col4" class="data row1 col4" >December</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow1_col5" class="data row1 col5" >7.5</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow1_col6" class="data row1 col6" >0</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow1_col7" class="data row1 col7" >744%</td> 
     </tr>    <tr> 
-        <th id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7clevel0_row2" class="row_heading level0 row2" >870</th> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow2_col0" class="data row2 col0" >The Avengers</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow2_col1" class="data row2 col1" >$1,519,557,910</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow2_col2" class="data row2 col2" >$220,000,000</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow2_col3" class="data row2 col3" >Science Fiction</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow2_col4" class="data row2 col4" >April</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow2_col5" class="data row2 col5" >7.4</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow2_col6" class="data row2 col6" >0</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow2_col7" class="data row2 col7" >591%</td> 
+        <th id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7clevel0_row2" class="row_heading level0 row2" >870</th> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow2_col0" class="data row2 col0" >The Avengers</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow2_col1" class="data row2 col1" >$1,519,557,910</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow2_col2" class="data row2 col2" >$220,000,000</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow2_col3" class="data row2 col3" >Science Fiction</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow2_col4" class="data row2 col4" >April</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow2_col5" class="data row2 col5" >7.4</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow2_col6" class="data row2 col6" >0</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow2_col7" class="data row2 col7" >591%</td> 
     </tr>    <tr> 
-        <th id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7clevel0_row3" class="row_heading level0 row3" >1551</th> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow3_col0" class="data row3 col0" >Jurassic World</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow3_col1" class="data row3 col1" >$1,513,528,810</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow3_col2" class="data row3 col2" >$150,000,000</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow3_col3" class="data row3 col3" >Action</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow3_col4" class="data row3 col4" >June</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow3_col5" class="data row3 col5" >6.5</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow3_col6" class="data row3 col6" >0</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow3_col7" class="data row3 col7" >909%</td> 
+        <th id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7clevel0_row3" class="row_heading level0 row3" >1551</th> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow3_col0" class="data row3 col0" >Jurassic World</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow3_col1" class="data row3 col1" >$1,513,528,810</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow3_col2" class="data row3 col2" >$150,000,000</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow3_col3" class="data row3 col3" >Action</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow3_col4" class="data row3 col4" >June</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow3_col5" class="data row3 col5" >6.5</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow3_col6" class="data row3 col6" >0</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow3_col7" class="data row3 col7" >909%</td> 
     </tr>    <tr> 
-        <th id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7clevel0_row4" class="row_heading level0 row4" >1664</th> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow4_col0" class="data row4 col0" >Furious 7</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow4_col1" class="data row4 col1" >$1,506,249,360</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow4_col2" class="data row4 col2" >$190,000,000</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow4_col3" class="data row4 col3" >Action</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow4_col4" class="data row4 col4" >April</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow4_col5" class="data row4 col5" >7.3</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow4_col6" class="data row4 col6" >0</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow4_col7" class="data row4 col7" >693%</td> 
+        <th id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7clevel0_row4" class="row_heading level0 row4" >1664</th> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow4_col0" class="data row4 col0" >Furious 7</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow4_col1" class="data row4 col1" >$1,506,249,360</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow4_col2" class="data row4 col2" >$190,000,000</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow4_col3" class="data row4 col3" >Action</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow4_col4" class="data row4 col4" >April</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow4_col5" class="data row4 col5" >7.3</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow4_col6" class="data row4 col6" >0</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow4_col7" class="data row4 col7" >693%</td> 
     </tr>    <tr> 
-        <th id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7clevel0_row5" class="row_heading level0 row5" >1606</th> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow5_col0" class="data row5 col0" >Avengers: Age of Ultron</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow5_col1" class="data row5 col1" >$1,405,403,694</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow5_col2" class="data row5 col2" >$280,000,000</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow5_col3" class="data row5 col3" >Action</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow5_col4" class="data row5 col4" >April</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow5_col5" class="data row5 col5" >7.3</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow5_col6" class="data row5 col6" >0</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow5_col7" class="data row5 col7" >402%</td> 
+        <th id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7clevel0_row5" class="row_heading level0 row5" >1606</th> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow5_col0" class="data row5 col0" >Avengers: Age of Ultron</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow5_col1" class="data row5 col1" >$1,405,403,694</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow5_col2" class="data row5 col2" >$280,000,000</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow5_col3" class="data row5 col3" >Action</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow5_col4" class="data row5 col4" >April</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow5_col5" class="data row5 col5" >7.3</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow5_col6" class="data row5 col6" >0</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow5_col7" class="data row5 col7" >402%</td> 
     </tr>    <tr> 
-        <th id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7clevel0_row6" class="row_heading level0 row6" >825</th> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow6_col0" class="data row6 col0" >Harry Potter and the Deathly Hallows: Part 2</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow6_col1" class="data row6 col1" >$1,342,000,000</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow6_col2" class="data row6 col2" >$125,000,000</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow6_col3" class="data row6 col3" >Family</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow6_col4" class="data row6 col4" >July</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow6_col5" class="data row6 col5" >7.9</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow6_col6" class="data row6 col6" >0</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow6_col7" class="data row6 col7" >974%</td> 
+        <th id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7clevel0_row6" class="row_heading level0 row6" >825</th> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow6_col0" class="data row6 col0" >Harry Potter and the Deathly Hallows: Part 2</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow6_col1" class="data row6 col1" >$1,342,000,000</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow6_col2" class="data row6 col2" >$125,000,000</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow6_col3" class="data row6 col3" >Family</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow6_col4" class="data row6 col4" >July</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow6_col5" class="data row6 col5" >7.9</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow6_col6" class="data row6 col6" >0</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow6_col7" class="data row6 col7" >974%</td> 
     </tr>    <tr> 
-        <th id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7clevel0_row7" class="row_heading level0 row7" >1332</th> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow7_col0" class="data row7 col0" >Frozen</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow7_col1" class="data row7 col1" >$1,274,219,009</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow7_col2" class="data row7 col2" >$150,000,000</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow7_col3" class="data row7 col3" >Animation</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow7_col4" class="data row7 col4" >November</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow7_col5" class="data row7 col5" >7.3</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow7_col6" class="data row7 col6" >2</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow7_col7" class="data row7 col7" >749%</td> 
+        <th id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7clevel0_row7" class="row_heading level0 row7" >1332</th> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow7_col0" class="data row7 col0" >Frozen</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow7_col1" class="data row7 col1" >$1,274,219,009</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow7_col2" class="data row7 col2" >$150,000,000</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow7_col3" class="data row7 col3" >Animation</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow7_col4" class="data row7 col4" >November</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow7_col5" class="data row7 col5" >7.3</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow7_col6" class="data row7 col6" >2</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow7_col7" class="data row7 col7" >749%</td> 
     </tr>    <tr> 
-        <th id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7clevel0_row8" class="row_heading level0 row8" >2154</th> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow8_col0" class="data row8 col0" >Beauty and the Beast</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow8_col1" class="data row8 col1" >$1,262,886,337</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow8_col2" class="data row8 col2" >$160,000,000</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow8_col3" class="data row8 col3" >Family</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow8_col4" class="data row8 col4" >March</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow8_col5" class="data row8 col5" >6.8</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow8_col6" class="data row8 col6" >0</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow8_col7" class="data row8 col7" >689%</td> 
+        <th id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7clevel0_row8" class="row_heading level0 row8" >2154</th> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow8_col0" class="data row8 col0" >Beauty and the Beast</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow8_col1" class="data row8 col1" >$1,262,886,337</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow8_col2" class="data row8 col2" >$160,000,000</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow8_col3" class="data row8 col3" >Family</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow8_col4" class="data row8 col4" >March</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow8_col5" class="data row8 col5" >6.8</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow8_col6" class="data row8 col6" >0</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow8_col7" class="data row8 col7" >689%</td> 
     </tr>    <tr> 
-        <th id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7clevel0_row9" class="row_heading level0 row9" >2189</th> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow9_col0" class="data row9 col0" >The Fate of the Furious</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow9_col1" class="data row9 col1" >$1,238,764,765</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow9_col2" class="data row9 col2" >$250,000,000</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow9_col3" class="data row9 col3" >Action</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow9_col4" class="data row9 col4" >April</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow9_col5" class="data row9 col5" >6.8</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow9_col6" class="data row9 col6" >0</td> 
-        <td id="T_dea935ca_3b8e_11e8_b49e_3ca067dc5c7crow9_col7" class="data row9 col7" >396%</td> 
+        <th id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7clevel0_row9" class="row_heading level0 row9" >2189</th> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow9_col0" class="data row9 col0" >The Fate of the Furious</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow9_col1" class="data row9 col1" >$1,238,764,765</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow9_col2" class="data row9 col2" >$250,000,000</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow9_col3" class="data row9 col3" >Action</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow9_col4" class="data row9 col4" >April</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow9_col5" class="data row9 col5" >6.8</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow9_col6" class="data row9 col6" >0</td> 
+        <td id="T_2bf623c8_3ceb_11e8_93e9_3ca067dc5c7crow9_col7" class="data row9 col7" >396%</td> 
     </tr></tbody> 
 </table> 
 
@@ -303,7 +303,7 @@ bybud.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}'
 
 <style  type="text/css" >
 </style>  
-<table id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7c" > 
+<table id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7c" > 
 <thead>    <tr> 
         <th class="blank level0" ></th> 
         <th class="col_heading level0 col0" >title</th> 
@@ -316,105 +316,105 @@ bybud.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}'
         <th class="col_heading level0 col7" >roi</th> 
     </tr></thead> 
 <tbody>    <tr> 
-        <th id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7clevel0_row0" class="row_heading level0 row0" >793</th> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow0_col0" class="data row0 col0" >Pirates of the Caribbean: On Stranger Tides</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow0_col1" class="data row0 col1" >$1,045,713,802</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow0_col2" class="data row0 col2" >$380,000,000</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow0_col3" class="data row0 col3" >Adventure</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow0_col4" class="data row0 col4" >May</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow0_col5" class="data row0 col5" >6.4</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow0_col6" class="data row0 col6" >0</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow0_col7" class="data row0 col7" >175%</td> 
+        <th id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7clevel0_row0" class="row_heading level0 row0" >793</th> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow0_col0" class="data row0 col0" >Pirates of the Caribbean: On Stranger Tides</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow0_col1" class="data row0 col1" >$1,045,713,802</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow0_col2" class="data row0 col2" >$380,000,000</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow0_col3" class="data row0 col3" >Adventure</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow0_col4" class="data row0 col4" >May</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow0_col5" class="data row0 col5" >6.4</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow0_col6" class="data row0 col6" >0</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow0_col7" class="data row0 col7" >175%</td> 
     </tr>    <tr> 
-        <th id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7clevel0_row1" class="row_heading level0 row1" >45</th> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow1_col0" class="data row1 col0" >Pirates of the Caribbean: At World's End</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow1_col1" class="data row1 col1" >$961,000,000</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow1_col2" class="data row1 col2" >$300,000,000</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow1_col3" class="data row1 col3" >Adventure</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow1_col4" class="data row1 col4" >May</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow1_col5" class="data row1 col5" >6.9</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow1_col6" class="data row1 col6" >0</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow1_col7" class="data row1 col7" >220%</td> 
+        <th id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7clevel0_row1" class="row_heading level0 row1" >45</th> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow1_col0" class="data row1 col0" >Pirates of the Caribbean: At World's End</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow1_col1" class="data row1 col1" >$961,000,000</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow1_col2" class="data row1 col2" >$300,000,000</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow1_col3" class="data row1 col3" >Adventure</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow1_col4" class="data row1 col4" >May</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow1_col5" class="data row1 col5" >6.9</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow1_col6" class="data row1 col6" >0</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow1_col7" class="data row1 col7" >220%</td> 
     </tr>    <tr> 
-        <th id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7clevel0_row2" class="row_heading level0 row2" >1606</th> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow2_col0" class="data row2 col0" >Avengers: Age of Ultron</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow2_col1" class="data row2 col1" >$1,405,403,694</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow2_col2" class="data row2 col2" >$280,000,000</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow2_col3" class="data row2 col3" >Action</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow2_col4" class="data row2 col4" >April</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow2_col5" class="data row2 col5" >7.3</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow2_col6" class="data row2 col6" >0</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow2_col7" class="data row2 col7" >402%</td> 
+        <th id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7clevel0_row2" class="row_heading level0 row2" >1606</th> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow2_col0" class="data row2 col0" >Avengers: Age of Ultron</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow2_col1" class="data row2 col1" >$1,405,403,694</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow2_col2" class="data row2 col2" >$280,000,000</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow2_col3" class="data row2 col3" >Action</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow2_col4" class="data row2 col4" >April</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow2_col5" class="data row2 col5" >7.3</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow2_col6" class="data row2 col6" >0</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow2_col7" class="data row2 col7" >402%</td> 
     </tr>    <tr> 
-        <th id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7clevel0_row3" class="row_heading level0 row3" >689</th> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow3_col0" class="data row3 col0" >Tangled</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow3_col1" class="data row3 col1" >$591,794,936</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow3_col2" class="data row3 col2" >$260,000,000</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow3_col3" class="data row3 col3" >Animation</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow3_col4" class="data row3 col4" >November</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow3_col5" class="data row3 col5" >7.4</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow3_col6" class="data row3 col6" >0</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow3_col7" class="data row3 col7" >128%</td> 
+        <th id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7clevel0_row3" class="row_heading level0 row3" >689</th> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow3_col0" class="data row3 col0" >Tangled</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow3_col1" class="data row3 col1" >$591,794,936</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow3_col2" class="data row3 col2" >$260,000,000</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow3_col3" class="data row3 col3" >Animation</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow3_col4" class="data row3 col4" >November</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow3_col5" class="data row3 col5" >7.4</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow3_col6" class="data row3 col6" >0</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow3_col7" class="data row3 col7" >128%</td> 
     </tr>    <tr> 
-        <th id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7clevel0_row4" class="row_heading level0 row4" >2232</th> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow4_col0" class="data row4 col0" >Transformers: The Last Knight</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow4_col1" class="data row4 col1" >$604,942,143</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow4_col2" class="data row4 col2" >$260,000,000</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow4_col3" class="data row4 col3" >Action</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow4_col4" class="data row4 col4" >June</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow4_col5" class="data row4 col5" >6.2</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow4_col6" class="data row4 col6" >0</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow4_col7" class="data row4 col7" >133%</td> 
+        <th id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7clevel0_row4" class="row_heading level0 row4" >2232</th> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow4_col0" class="data row4 col0" >Transformers: The Last Knight</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow4_col1" class="data row4 col1" >$604,942,143</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow4_col2" class="data row4 col2" >$260,000,000</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow4_col3" class="data row4 col3" >Action</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow4_col4" class="data row4 col4" >June</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow4_col5" class="data row4 col5" >6.2</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow4_col6" class="data row4 col6" >0</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow4_col7" class="data row4 col7" >133%</td> 
     </tr>    <tr> 
-        <th id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7clevel0_row5" class="row_heading level0 row5" >991</th> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow5_col0" class="data row5 col0" >John Carter</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow5_col1" class="data row5 col1" >$284,139,100</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow5_col2" class="data row5 col2" >$260,000,000</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow5_col3" class="data row5 col3" >Action</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow5_col4" class="data row5 col4" >March</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow5_col5" class="data row5 col5" >6.1</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow5_col6" class="data row5 col6" >0</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow5_col7" class="data row5 col7" >9%</td> 
+        <th id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7clevel0_row5" class="row_heading level0 row5" >991</th> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow5_col0" class="data row5 col0" >John Carter</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow5_col1" class="data row5 col1" >$284,139,100</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow5_col2" class="data row5 col2" >$260,000,000</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow5_col3" class="data row5 col3" >Action</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow5_col4" class="data row5 col4" >March</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow5_col5" class="data row5 col5" >6.1</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow5_col6" class="data row5 col6" >0</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow5_col7" class="data row5 col7" >9%</td> 
     </tr>    <tr> 
-        <th id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7clevel0_row6" class="row_heading level0 row6" >39</th> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow6_col0" class="data row6 col0" >Spider-Man 3</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow6_col1" class="data row6 col1" >$890,871,626</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow6_col2" class="data row6 col2" >$258,000,000</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow6_col3" class="data row6 col3" >Fantasy</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow6_col4" class="data row6 col4" >May</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow6_col5" class="data row6 col5" >5.9</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow6_col6" class="data row6 col6" >0</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow6_col7" class="data row6 col7" >245%</td> 
+        <th id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7clevel0_row6" class="row_heading level0 row6" >39</th> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow6_col0" class="data row6 col0" >Spider-Man 3</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow6_col1" class="data row6 col1" >$890,871,626</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow6_col2" class="data row6 col2" >$258,000,000</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow6_col3" class="data row6 col3" >Fantasy</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow6_col4" class="data row6 col4" >May</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow6_col5" class="data row6 col5" >5.9</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow6_col6" class="data row6 col6" >0</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow6_col7" class="data row6 col7" >245%</td> 
     </tr>    <tr> 
-        <th id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7clevel0_row7" class="row_heading level0 row7" >1251</th> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow7_col0" class="data row7 col0" >The Lone Ranger</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow7_col1" class="data row7 col1" >$89,289,910</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow7_col2" class="data row7 col2" >$255,000,000</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow7_col3" class="data row7 col3" >Action</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow7_col4" class="data row7 col4" >July</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow7_col5" class="data row7 col5" >5.9</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow7_col6" class="data row7 col6" >0</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow7_col7" class="data row7 col7" >-65%</td> 
+        <th id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7clevel0_row7" class="row_heading level0 row7" >1251</th> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow7_col0" class="data row7 col0" >The Lone Ranger</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow7_col1" class="data row7 col1" >$89,289,910</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow7_col2" class="data row7 col2" >$255,000,000</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow7_col3" class="data row7 col3" >Action</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow7_col4" class="data row7 col4" >July</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow7_col5" class="data row7 col5" >5.9</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow7_col6" class="data row7 col6" >0</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow7_col7" class="data row7 col7" >-65%</td> 
     </tr>    <tr> 
-        <th id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7clevel0_row8" class="row_heading level0 row8" >687</th> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow8_col0" class="data row8 col0" >Harry Potter and the Deathly Hallows: Part 1</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow8_col1" class="data row8 col1" >$954,305,868</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow8_col2" class="data row8 col2" >$250,000,000</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow8_col3" class="data row8 col3" >Adventure</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow8_col4" class="data row8 col4" >October</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow8_col5" class="data row8 col5" >7.5</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow8_col6" class="data row8 col6" >0</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow8_col7" class="data row8 col7" >282%</td> 
+        <th id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7clevel0_row8" class="row_heading level0 row8" >687</th> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow8_col0" class="data row8 col0" >Harry Potter and the Deathly Hallows: Part 1</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow8_col1" class="data row8 col1" >$954,305,868</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow8_col2" class="data row8 col2" >$250,000,000</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow8_col3" class="data row8 col3" >Adventure</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow8_col4" class="data row8 col4" >October</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow8_col5" class="data row8 col5" >7.5</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow8_col6" class="data row8 col6" >0</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow8_col7" class="data row8 col7" >282%</td> 
     </tr>    <tr> 
-        <th id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7clevel0_row9" class="row_heading level0 row9" >1129</th> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow9_col0" class="data row9 col0" >The Hobbit: An Unexpected Journey</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow9_col1" class="data row9 col1" >$1,021,103,568</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow9_col2" class="data row9 col2" >$250,000,000</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow9_col3" class="data row9 col3" >Adventure</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow9_col4" class="data row9 col4" >November</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow9_col5" class="data row9 col5" >7</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow9_col6" class="data row9 col6" >0</td> 
-        <td id="T_e6d1175c_3b8e_11e8_8e6d_3ca067dc5c7crow9_col7" class="data row9 col7" >308%</td> 
+        <th id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7clevel0_row9" class="row_heading level0 row9" >1129</th> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow9_col0" class="data row9 col0" >The Hobbit: An Unexpected Journey</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow9_col1" class="data row9 col1" >$1,021,103,568</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow9_col2" class="data row9 col2" >$250,000,000</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow9_col3" class="data row9 col3" >Adventure</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow9_col4" class="data row9 col4" >November</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow9_col5" class="data row9 col5" >7</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow9_col6" class="data row9 col6" >0</td> 
+        <td id="T_2fc328ac_3ceb_11e8_96ac_3ca067dc5c7crow9_col7" class="data row9 col7" >308%</td> 
     </tr></tbody> 
 </table> 
 
@@ -433,7 +433,7 @@ byawd.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}'
 
 <style  type="text/css" >
 </style>  
-<table id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7c" > 
+<table id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7c" > 
 <thead>    <tr> 
         <th class="blank level0" ></th> 
         <th class="col_heading level0 col0" >title</th> 
@@ -446,105 +446,105 @@ byawd.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}'
         <th class="col_heading level0 col7" >roi</th> 
     </tr></thead> 
 <tbody>    <tr> 
-        <th id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7clevel0_row0" class="row_heading level0 row0" >2078</th> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow0_col0" class="data row0 col0" >La La Land</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow0_col1" class="data row0 col1" >$445,435,700</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow0_col2" class="data row0 col2" >$30,000,000</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow0_col3" class="data row0 col3" >Comedy</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow0_col4" class="data row0 col4" >November</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow0_col5" class="data row0 col5" >7.9</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow0_col6" class="data row0 col6" >14</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow0_col7" class="data row0 col7" >1385%</td> 
+        <th id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7clevel0_row0" class="row_heading level0 row0" >2078</th> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow0_col0" class="data row0 col0" >La La Land</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow0_col1" class="data row0 col1" >$445,435,700</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow0_col2" class="data row0 col2" >$30,000,000</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow0_col3" class="data row0 col3" >Comedy</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow0_col4" class="data row0 col4" >November</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow0_col5" class="data row0 col5" >7.9</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow0_col6" class="data row0 col6" >14</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow0_col7" class="data row0 col7" >1385%</td> 
     </tr>    <tr> 
-        <th id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7clevel0_row1" class="row_heading level0 row1" >318</th> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow1_col0" class="data row1 col0" >The Curious Case of Benjamin Button</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow1_col1" class="data row1 col1" >$333,932,083</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow1_col2" class="data row1 col2" >$150,000,000</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow1_col3" class="data row1 col3" >Fantasy</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow1_col4" class="data row1 col4" >November</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow1_col5" class="data row1 col5" >7.3</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow1_col6" class="data row1 col6" >13</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow1_col7" class="data row1 col7" >123%</td> 
+        <th id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7clevel0_row1" class="row_heading level0 row1" >318</th> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow1_col0" class="data row1 col0" >The Curious Case of Benjamin Button</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow1_col1" class="data row1 col1" >$333,932,083</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow1_col2" class="data row1 col2" >$150,000,000</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow1_col3" class="data row1 col3" >Fantasy</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow1_col4" class="data row1 col4" >November</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow1_col5" class="data row1 col5" >7.3</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow1_col6" class="data row1 col6" >13</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow1_col7" class="data row1 col7" >123%</td> 
     </tr>    <tr> 
-        <th id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7clevel0_row2" class="row_heading level0 row2" >1121</th> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow2_col0" class="data row2 col0" >Lincoln</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow2_col1" class="data row2 col1" >$275,293,450</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow2_col2" class="data row2 col2" >$65,000,000</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow2_col3" class="data row2 col3" >History</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow2_col4" class="data row2 col4" >November</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow2_col5" class="data row2 col5" >6.7</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow2_col6" class="data row2 col6" >12</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow2_col7" class="data row2 col7" >324%</td> 
+        <th id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7clevel0_row2" class="row_heading level0 row2" >1121</th> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow2_col0" class="data row2 col0" >Lincoln</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow2_col1" class="data row2 col1" >$275,293,450</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow2_col2" class="data row2 col2" >$65,000,000</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow2_col3" class="data row2 col3" >History</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow2_col4" class="data row2 col4" >November</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow2_col5" class="data row2 col5" >6.7</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow2_col6" class="data row2 col6" >12</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow2_col7" class="data row2 col7" >324%</td> 
     </tr>    <tr> 
-        <th id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7clevel0_row3" class="row_heading level0 row3" >1769</th> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow3_col0" class="data row3 col0" >The Revenant</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow3_col1" class="data row3 col1" >$532,950,503</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow3_col2" class="data row3 col2" >$135,000,000</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow3_col3" class="data row3 col3" >Western</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow3_col4" class="data row3 col4" >December</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow3_col5" class="data row3 col5" >7.3</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow3_col6" class="data row3 col6" >12</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow3_col7" class="data row3 col7" >295%</td> 
+        <th id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7clevel0_row3" class="row_heading level0 row3" >1769</th> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow3_col0" class="data row3 col0" >The Revenant</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow3_col1" class="data row3 col1" >$532,950,503</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow3_col2" class="data row3 col2" >$135,000,000</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow3_col3" class="data row3 col3" >Western</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow3_col4" class="data row3 col4" >December</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow3_col5" class="data row3 col5" >7.3</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow3_col6" class="data row3 col6" >12</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow3_col7" class="data row3 col7" >295%</td> 
     </tr>    <tr> 
-        <th id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7clevel0_row4" class="row_heading level0 row4" >688</th> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow4_col0" class="data row4 col0" >The King's Speech</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow4_col1" class="data row4 col1" >$414,211,549</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow4_col2" class="data row4 col2" >$15,000,000</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow4_col3" class="data row4 col3" >Drama</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow4_col4" class="data row4 col4" >September</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow4_col5" class="data row4 col5" >7.6</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow4_col6" class="data row4 col6" >12</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow4_col7" class="data row4 col7" >2661%</td> 
+        <th id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7clevel0_row4" class="row_heading level0 row4" >688</th> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow4_col0" class="data row4 col0" >The King's Speech</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow4_col1" class="data row4 col1" >$414,211,549</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow4_col2" class="data row4 col2" >$15,000,000</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow4_col3" class="data row4 col3" >Drama</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow4_col4" class="data row4 col4" >September</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow4_col5" class="data row4 col5" >7.6</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow4_col6" class="data row4 col6" >12</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow4_col7" class="data row4 col7" >2661%</td> 
     </tr>    <tr> 
-        <th id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7clevel0_row5" class="row_heading level0 row5" >907</th> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow5_col0" class="data row5 col0" >Hugo</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow5_col1" class="data row5 col1" >$185,770,160</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow5_col2" class="data row5 col2" >$170,000,000</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow5_col3" class="data row5 col3" >Adventure</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow5_col4" class="data row5 col4" >November</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow5_col5" class="data row5 col5" >7</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow5_col6" class="data row5 col6" >11</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow5_col7" class="data row5 col7" >9%</td> 
+        <th id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7clevel0_row5" class="row_heading level0 row5" >907</th> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow5_col0" class="data row5 col0" >Hugo</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow5_col1" class="data row5 col1" >$185,770,160</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow5_col2" class="data row5 col2" >$170,000,000</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow5_col3" class="data row5 col3" >Adventure</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow5_col4" class="data row5 col4" >November</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow5_col5" class="data row5 col5" >7</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow5_col6" class="data row5 col6" >11</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow5_col7" class="data row5 col7" >9%</td> 
     </tr>    <tr> 
-        <th id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7clevel0_row6" class="row_heading level0 row6" >1115</th> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow6_col0" class="data row6 col0" >Life of Pi</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow6_col1" class="data row6 col1" >$609,016,565</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow6_col2" class="data row6 col2" >$120,000,000</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow6_col3" class="data row6 col3" >Adventure</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow6_col4" class="data row6 col4" >November</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow6_col5" class="data row6 col5" >7.2</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow6_col6" class="data row6 col6" >11</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow6_col7" class="data row6 col7" >408%</td> 
+        <th id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7clevel0_row6" class="row_heading level0 row6" >1115</th> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow6_col0" class="data row6 col0" >Life of Pi</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow6_col1" class="data row6 col1" >$609,016,565</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow6_col2" class="data row6 col2" >$120,000,000</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow6_col3" class="data row6 col3" >Adventure</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow6_col4" class="data row6 col4" >November</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow6_col5" class="data row6 col5" >7.2</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow6_col6" class="data row6 col6" >11</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow6_col7" class="data row6 col7" >408%</td> 
     </tr>    <tr> 
-        <th id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7clevel0_row7" class="row_heading level0 row7" >1287</th> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow7_col0" class="data row7 col0" >Gravity</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow7_col1" class="data row7 col1" >$716,392,705</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow7_col2" class="data row7 col2" >$105,000,000</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow7_col3" class="data row7 col3" >Science Fiction</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow7_col4" class="data row7 col4" >September</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow7_col5" class="data row7 col5" >7.3</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow7_col6" class="data row7 col6" >10</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow7_col7" class="data row7 col7" >582%</td> 
+        <th id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7clevel0_row7" class="row_heading level0 row7" >1287</th> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow7_col0" class="data row7 col0" >Gravity</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow7_col1" class="data row7 col1" >$716,392,705</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow7_col2" class="data row7 col2" >$105,000,000</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow7_col3" class="data row7 col3" >Science Fiction</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow7_col4" class="data row7 col4" >September</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow7_col5" class="data row7 col5" >7.3</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow7_col6" class="data row7 col6" >10</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow7_col7" class="data row7 col7" >582%</td> 
     </tr>    <tr> 
-        <th id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7clevel0_row8" class="row_heading level0 row8" >1601</th> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow8_col0" class="data row8 col0" >Mad Max: Fury Road</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow8_col1" class="data row8 col1" >$378,858,340</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow8_col2" class="data row8 col2" >$150,000,000</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow8_col3" class="data row8 col3" >Action</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow8_col4" class="data row8 col4" >May</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow8_col5" class="data row8 col5" >7.3</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow8_col6" class="data row8 col6" >10</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow8_col7" class="data row8 col7" >153%</td> 
+        <th id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7clevel0_row8" class="row_heading level0 row8" >1601</th> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow8_col0" class="data row8 col0" >Mad Max: Fury Road</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow8_col1" class="data row8 col1" >$378,858,340</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow8_col2" class="data row8 col2" >$150,000,000</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow8_col3" class="data row8 col3" >Action</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow8_col4" class="data row8 col4" >May</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow8_col5" class="data row8 col5" >7.3</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow8_col6" class="data row8 col6" >10</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow8_col7" class="data row8 col7" >153%</td> 
     </tr>    <tr> 
-        <th id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7clevel0_row9" class="row_heading level0 row9" >879</th> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow9_col0" class="data row9 col0" >The Artist</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow9_col1" class="data row9 col1" >$133,432,856</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow9_col2" class="data row9 col2" >$15,000,000</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow9_col3" class="data row9 col3" >Drama</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow9_col4" class="data row9 col4" >May</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow9_col5" class="data row9 col5" >7.3</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow9_col6" class="data row9 col6" >10</td> 
-        <td id="T_eef26488_3b8e_11e8_849d_3ca067dc5c7crow9_col7" class="data row9 col7" >790%</td> 
+        <th id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7clevel0_row9" class="row_heading level0 row9" >879</th> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow9_col0" class="data row9 col0" >The Artist</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow9_col1" class="data row9 col1" >$133,432,856</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow9_col2" class="data row9 col2" >$15,000,000</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow9_col3" class="data row9 col3" >Drama</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow9_col4" class="data row9 col4" >May</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow9_col5" class="data row9 col5" >7.3</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow9_col6" class="data row9 col6" >10</td> 
+        <td id="T_3263eadc_3ceb_11e8_a5ab_3ca067dc5c7crow9_col7" class="data row9 col7" >790%</td> 
     </tr></tbody> 
 </table> 
 
@@ -563,7 +563,7 @@ byroi.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}'
 
 <style  type="text/css" >
 </style>  
-<table id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7c" > 
+<table id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7c" > 
 <thead>    <tr> 
         <th class="blank level0" ></th> 
         <th class="col_heading level0 col0" >title</th> 
@@ -576,105 +576,105 @@ byroi.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}'
         <th class="col_heading level0 col7" >roi</th> 
     </tr></thead> 
 <tbody>    <tr> 
-        <th id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7clevel0_row0" class="row_heading level0 row0" >734</th> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow0_col0" class="data row0 col0" >From Prada to Nada</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow0_col1" class="data row0 col1" >$2,500,000</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow0_col2" class="data row0 col2" >$93</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow0_col3" class="data row0 col3" >Comedy</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow0_col4" class="data row0 col4" >January</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow0_col5" class="data row0 col5" >5</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow0_col6" class="data row0 col6" >0</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow0_col7" class="data row0 col7" >2688072%</td> 
+        <th id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7clevel0_row0" class="row_heading level0 row0" >734</th> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow0_col0" class="data row0 col0" >From Prada to Nada</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow0_col1" class="data row0 col1" >$2,500,000</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow0_col2" class="data row0 col2" >$93</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow0_col3" class="data row0 col3" >Comedy</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow0_col4" class="data row0 col4" >January</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow0_col5" class="data row0 col5" >5</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow0_col6" class="data row0 col6" >0</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow0_col7" class="data row0 col7" >2688072%</td> 
     </tr>    <tr> 
-        <th id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7clevel0_row1" class="row_heading level0 row1" >451</th> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow1_col0" class="data row1 col0" >Paranormal Activity</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow1_col1" class="data row1 col1" >$193,355,800</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow1_col2" class="data row1 col2" >$15,000</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow1_col3" class="data row1 col3" >Horror</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow1_col4" class="data row1 col4" >September</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow1_col5" class="data row1 col5" >5.9</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow1_col6" class="data row1 col6" >0</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow1_col7" class="data row1 col7" >1288939%</td> 
+        <th id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7clevel0_row1" class="row_heading level0 row1" >451</th> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow1_col0" class="data row1 col0" >Paranormal Activity</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow1_col1" class="data row1 col1" >$193,355,800</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow1_col2" class="data row1 col2" >$15,000</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow1_col3" class="data row1 col3" >Horror</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow1_col4" class="data row1 col4" >September</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow1_col5" class="data row1 col5" >5.9</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow1_col6" class="data row1 col6" >0</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow1_col7" class="data row1 col7" >1288939%</td> 
     </tr>    <tr> 
-        <th id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7clevel0_row2" class="row_heading level0 row2" >2100</th> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow2_col0" class="data row2 col0" >The Tiger: An Old Hunter's Tale</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow2_col1" class="data row2 col1" >$11,083,449</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow2_col2" class="data row2 col2" >$5,000</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow2_col3" class="data row2 col3" >Action</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow2_col4" class="data row2 col4" >December</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow2_col5" class="data row2 col5" >7.5</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow2_col6" class="data row2 col6" >0</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow2_col7" class="data row2 col7" >221569%</td> 
+        <th id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7clevel0_row2" class="row_heading level0 row2" >2100</th> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow2_col0" class="data row2 col0" >The Tiger: An Old Hunter's Tale</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow2_col1" class="data row2 col1" >$11,083,449</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow2_col2" class="data row2 col2" >$5,000</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow2_col3" class="data row2 col3" >Action</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow2_col4" class="data row2 col4" >December</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow2_col5" class="data row2 col5" >7.5</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow2_col6" class="data row2 col6" >0</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow2_col7" class="data row2 col7" >221569%</td> 
     </tr>    <tr> 
-        <th id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7clevel0_row3" class="row_heading level0 row3" >1764</th> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow3_col0" class="data row3 col0" >The Gallows</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow3_col1" class="data row3 col1" >$42,664,410</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow3_col2" class="data row3 col2" >$100,000</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow3_col3" class="data row3 col3" >Horror</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow3_col4" class="data row3 col4" >July</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow3_col5" class="data row3 col5" >4.9</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow3_col6" class="data row3 col6" >0</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow3_col7" class="data row3 col7" >42564%</td> 
+        <th id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7clevel0_row3" class="row_heading level0 row3" >1764</th> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow3_col0" class="data row3 col0" >The Gallows</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow3_col1" class="data row3 col1" >$42,664,410</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow3_col2" class="data row3 col2" >$100,000</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow3_col3" class="data row3 col3" >Horror</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow3_col4" class="data row3 col4" >July</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow3_col5" class="data row3 col5" >4.9</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow3_col6" class="data row3 col6" >0</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow3_col7" class="data row3 col7" >42564%</td> 
     </tr>    <tr> 
-        <th id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7clevel0_row4" class="row_heading level0 row4" >2157</th> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow4_col0" class="data row4 col0" >A Ghost Story</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow4_col1" class="data row4 col1" >$15,584,255</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow4_col2" class="data row4 col2" >$100,000</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow4_col3" class="data row4 col3" >Drama</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow4_col4" class="data row4 col4" >July</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow4_col5" class="data row4 col5" >6.8</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow4_col6" class="data row4 col6" >0</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow4_col7" class="data row4 col7" >15484%</td> 
+        <th id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7clevel0_row4" class="row_heading level0 row4" >2157</th> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow4_col0" class="data row4 col0" >A Ghost Story</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow4_col1" class="data row4 col1" >$15,584,255</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow4_col2" class="data row4 col2" >$100,000</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow4_col3" class="data row4 col3" >Drama</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow4_col4" class="data row4 col4" >July</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow4_col5" class="data row4 col5" >6.8</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow4_col6" class="data row4 col6" >0</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow4_col7" class="data row4 col7" >15484%</td> 
     </tr>    <tr> 
-        <th id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7clevel0_row5" class="row_heading level0 row5" >44</th> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow5_col0" class="data row5 col0" >Once</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow5_col1" class="data row5 col1" >$20,710,513</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow5_col2" class="data row5 col2" >$160,000</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow5_col3" class="data row5 col3" >Drama</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow5_col4" class="data row5 col4" >March</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow5_col5" class="data row5 col5" >7.4</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow5_col6" class="data row5 col6" >1</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow5_col7" class="data row5 col7" >12844%</td> 
+        <th id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7clevel0_row5" class="row_heading level0 row5" >44</th> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow5_col0" class="data row5 col0" >Once</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow5_col1" class="data row5 col1" >$20,710,513</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow5_col2" class="data row5 col2" >$160,000</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow5_col3" class="data row5 col3" >Drama</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow5_col4" class="data row5 col4" >March</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow5_col5" class="data row5 col5" >7.4</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow5_col6" class="data row5 col6" >1</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow5_col7" class="data row5 col7" >12844%</td> 
     </tr>    <tr> 
-        <th id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7clevel0_row6" class="row_heading level0 row6" >952</th> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow6_col0" class="data row6 col0" >The Devil Inside</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow6_col1" class="data row6 col1" >$101,758,490</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow6_col2" class="data row6 col2" >$1,000,000</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow6_col3" class="data row6 col3" >Thriller</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow6_col4" class="data row6 col4" >January</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow6_col5" class="data row6 col5" >4.6</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow6_col6" class="data row6 col6" >0</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow6_col7" class="data row6 col7" >10076%</td> 
+        <th id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7clevel0_row6" class="row_heading level0 row6" >952</th> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow6_col0" class="data row6 col0" >The Devil Inside</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow6_col1" class="data row6 col1" >$101,758,490</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow6_col2" class="data row6 col2" >$1,000,000</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow6_col3" class="data row6 col3" >Thriller</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow6_col4" class="data row6 col4" >January</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow6_col5" class="data row6 col5" >4.6</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow6_col6" class="data row6 col6" >0</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow6_col7" class="data row6 col7" >10076%</td> 
     </tr>    <tr> 
-        <th id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7clevel0_row7" class="row_heading level0 row7" >657</th> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow7_col0" class="data row7 col0" >Catfish</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow7_col1" class="data row7 col1" >$3,045,943</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow7_col2" class="data row7 col2" >$30,000</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow7_col3" class="data row7 col3" >Documentary</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow7_col4" class="data row7 col4" >September</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow7_col5" class="data row7 col5" >6.5</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow7_col6" class="data row7 col6" >0</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow7_col7" class="data row7 col7" >10053%</td> 
+        <th id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7clevel0_row7" class="row_heading level0 row7" >657</th> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow7_col0" class="data row7 col0" >Catfish</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow7_col1" class="data row7 col1" >$3,045,943</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow7_col2" class="data row7 col2" >$30,000</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow7_col3" class="data row7 col3" >Documentary</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow7_col4" class="data row7 col4" >September</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow7_col5" class="data row7 col5" >6.5</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow7_col6" class="data row7 col6" >0</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow7_col7" class="data row7 col7" >10053%</td> 
     </tr>    <tr> 
-        <th id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7clevel0_row8" class="row_heading level0 row8" >1260</th> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow8_col0" class="data row8 col0" >Lost in Thailand</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow8_col1" class="data row8 col1" >$208,000,000</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow8_col2" class="data row8 col2" >$2,200,000</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow8_col3" class="data row8 col3" >Comedy</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow8_col4" class="data row8 col4" >December</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow8_col5" class="data row8 col5" >6.1</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow8_col6" class="data row8 col6" >0</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow8_col7" class="data row8 col7" >9355%</td> 
+        <th id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7clevel0_row8" class="row_heading level0 row8" >1260</th> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow8_col0" class="data row8 col0" >Lost in Thailand</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow8_col1" class="data row8 col1" >$208,000,000</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow8_col2" class="data row8 col2" >$2,200,000</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow8_col3" class="data row8 col3" >Comedy</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow8_col4" class="data row8 col4" >December</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow8_col5" class="data row8 col5" >6.1</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow8_col6" class="data row8 col6" >0</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow8_col7" class="data row8 col7" >9355%</td> 
     </tr>    <tr> 
-        <th id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7clevel0_row9" class="row_heading level0 row9" >1406</th> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow9_col0" class="data row9 col0" >The Quiet Ones</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow9_col1" class="data row9 col1" >$17,834,867</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow9_col2" class="data row9 col2" >$200,000</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow9_col3" class="data row9 col3" >Horror</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow9_col4" class="data row9 col4" >April</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow9_col5" class="data row9 col5" >5.1</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow9_col6" class="data row9 col6" >0</td> 
-        <td id="T_0100deb8_3b8f_11e8_9c1d_3ca067dc5c7crow9_col7" class="data row9 col7" >8817%</td> 
+        <th id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7clevel0_row9" class="row_heading level0 row9" >1406</th> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow9_col0" class="data row9 col0" >The Quiet Ones</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow9_col1" class="data row9 col1" >$17,834,867</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow9_col2" class="data row9 col2" >$200,000</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow9_col3" class="data row9 col3" >Horror</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow9_col4" class="data row9 col4" >April</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow9_col5" class="data row9 col5" >5.1</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow9_col6" class="data row9 col6" >0</td> 
+        <td id="T_36ce2540_3ceb_11e8_8ff9_3ca067dc5c7crow9_col7" class="data row9 col7" >8817%</td> 
     </tr></tbody> 
 </table> 
 
@@ -693,7 +693,7 @@ byvot.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}'
 
 <style  type="text/css" >
 </style>  
-<table id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7c" > 
+<table id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7c" > 
 <thead>    <tr> 
         <th class="blank level0" ></th> 
         <th class="col_heading level0 col0" >title</th> 
@@ -706,105 +706,105 @@ byvot.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}'
         <th class="col_heading level0 col7" >roi</th> 
     </tr></thead> 
 <tbody>    <tr> 
-        <th id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7clevel0_row0" class="row_heading level0 row0" >1864</th> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow0_col0" class="data row0 col0" >Katyar Kaljat Ghusali</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow0_col1" class="data row0 col1" >$4,400,000</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow0_col2" class="data row0 col2" >$1,500,000</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow0_col3" class="data row0 col3" >Music</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow0_col4" class="data row0 col4" >November</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow0_col5" class="data row0 col5" >9</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow0_col6" class="data row0 col6" >0</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow0_col7" class="data row0 col7" >193%</td> 
+        <th id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7clevel0_row0" class="row_heading level0 row0" >1864</th> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow0_col0" class="data row0 col0" >Katyar Kaljat Ghusali</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow0_col1" class="data row0 col1" >$4,400,000</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow0_col2" class="data row0 col2" >$1,500,000</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow0_col3" class="data row0 col3" >Music</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow0_col4" class="data row0 col4" >November</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow0_col5" class="data row0 col5" >9</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow0_col6" class="data row0 col6" >0</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow0_col7" class="data row0 col7" >193%</td> 
     </tr>    <tr> 
-        <th id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7clevel0_row1" class="row_heading level0 row1" >1902</th> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow1_col0" class="data row1 col0" >The Guide</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow1_col1" class="data row1 col1" >$499,168</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow1_col2" class="data row1 col2" >$722,083</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow1_col3" class="data row1 col3" >History</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow1_col4" class="data row1 col4" >November</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow1_col5" class="data row1 col5" >8.6</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow1_col6" class="data row1 col6" >0</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow1_col7" class="data row1 col7" >-31%</td> 
+        <th id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7clevel0_row1" class="row_heading level0 row1" >1902</th> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow1_col0" class="data row1 col0" >The Guide</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow1_col1" class="data row1 col1" >$499,168</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow1_col2" class="data row1 col2" >$722,083</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow1_col3" class="data row1 col3" >History</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow1_col4" class="data row1 col4" >November</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow1_col5" class="data row1 col5" >8.6</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow1_col6" class="data row1 col6" >0</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow1_col7" class="data row1 col7" >-31%</td> 
     </tr>    <tr> 
-        <th id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7clevel0_row2" class="row_heading level0 row2" >1460</th> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow2_col0" class="data row2 col0" >Whiplash</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow2_col1" class="data row2 col1" >$13,092,000</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow2_col2" class="data row2 col2" >$3,300,000</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow2_col3" class="data row2 col3" >Drama</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow2_col4" class="data row2 col4" >October</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow2_col5" class="data row2 col5" >8.3</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow2_col6" class="data row2 col6" >5</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow2_col7" class="data row2 col7" >297%</td> 
+        <th id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7clevel0_row2" class="row_heading level0 row2" >1460</th> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow2_col0" class="data row2 col0" >Whiplash</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow2_col1" class="data row2 col1" >$13,092,000</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow2_col2" class="data row2 col2" >$3,300,000</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow2_col3" class="data row2 col3" >Drama</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow2_col4" class="data row2 col4" >October</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow2_col5" class="data row2 col5" >8.3</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow2_col6" class="data row2 col6" >5</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow2_col7" class="data row2 col7" >297%</td> 
     </tr>    <tr> 
-        <th id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7clevel0_row3" class="row_heading level0 row3" >183</th> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow3_col0" class="data row3 col0" >The Dark Knight</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow3_col1" class="data row3 col1" >$1,004,558,444</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow3_col2" class="data row3 col2" >$185,000,000</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow3_col3" class="data row3 col3" >Drama</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow3_col4" class="data row3 col4" >July</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow3_col5" class="data row3 col5" >8.3</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow3_col6" class="data row3 col6" >8</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow3_col7" class="data row3 col7" >443%</td> 
+        <th id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7clevel0_row3" class="row_heading level0 row3" >183</th> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow3_col0" class="data row3 col0" >The Dark Knight</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow3_col1" class="data row3 col1" >$1,004,558,444</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow3_col2" class="data row3 col2" >$185,000,000</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow3_col3" class="data row3 col3" >Drama</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow3_col4" class="data row3 col4" >July</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow3_col5" class="data row3 col5" >8.3</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow3_col6" class="data row3 col6" >8</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow3_col7" class="data row3 col7" >443%</td> 
     </tr>    <tr> 
-        <th id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7clevel0_row4" class="row_heading level0 row4" >1570</th> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow4_col0" class="data row4 col0" >Mommy</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow4_col1" class="data row4 col1" >$3,494,070</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow4_col2" class="data row4 col2" >$4,900,000</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow4_col3" class="data row4 col3" >Drama</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow4_col4" class="data row4 col4" >May</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow4_col5" class="data row4 col5" >8.2</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow4_col6" class="data row4 col6" >0</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow4_col7" class="data row4 col7" >-29%</td> 
+        <th id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7clevel0_row4" class="row_heading level0 row4" >1570</th> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow4_col0" class="data row4 col0" >Mommy</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow4_col1" class="data row4 col1" >$3,494,070</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow4_col2" class="data row4 col2" >$4,900,000</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow4_col3" class="data row4 col3" >Drama</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow4_col4" class="data row4 col4" >May</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow4_col5" class="data row4 col5" >8.2</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow4_col6" class="data row4 col6" >0</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow4_col7" class="data row4 col7" >-29%</td> 
     </tr>    <tr> 
-        <th id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7clevel0_row5" class="row_heading level0 row5" >965</th> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow5_col0" class="data row5 col0" >The Intouchables</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow5_col1" class="data row5 col1" >$426,480,871</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow5_col2" class="data row5 col2" >$13,000,000</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow5_col3" class="data row5 col3" >Drama</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow5_col4" class="data row5 col4" >November</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow5_col5" class="data row5 col5" >8.2</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow5_col6" class="data row5 col6" >0</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow5_col7" class="data row5 col7" >3181%</td> 
+        <th id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7clevel0_row5" class="row_heading level0 row5" >965</th> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow5_col0" class="data row5 col0" >The Intouchables</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow5_col1" class="data row5 col1" >$426,480,871</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow5_col2" class="data row5 col2" >$13,000,000</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow5_col3" class="data row5 col3" >Drama</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow5_col4" class="data row5 col4" >November</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow5_col5" class="data row5 col5" >8.2</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow5_col6" class="data row5 col6" >0</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow5_col7" class="data row5 col7" >3181%</td> 
     </tr>    <tr> 
-        <th id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7clevel0_row6" class="row_heading level0 row6" >1585</th> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow6_col0" class="data row6 col0" >Drishyam</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow6_col1" class="data row6 col1" >$12,000,000</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow6_col2" class="data row6 col2" >$750,000</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow6_col3" class="data row6 col3" >Crime</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow6_col4" class="data row6 col4" >December</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow6_col5" class="data row6 col5" >8.1</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow6_col6" class="data row6 col6" >0</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow6_col7" class="data row6 col7" >1500%</td> 
+        <th id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7clevel0_row6" class="row_heading level0 row6" >1585</th> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow6_col0" class="data row6 col0" >Drishyam</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow6_col1" class="data row6 col1" >$12,000,000</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow6_col2" class="data row6 col2" >$750,000</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow6_col3" class="data row6 col3" >Crime</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow6_col4" class="data row6 col4" >December</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow6_col5" class="data row6 col5" >8.1</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow6_col6" class="data row6 col6" >0</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow6_col7" class="data row6 col7" >1500%</td> 
     </tr>    <tr> 
-        <th id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7clevel0_row7" class="row_heading level0 row7" >1989</th> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow7_col0" class="data row7 col0" >The Handmaiden</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow7_col1" class="data row7 col1" >$1,983,204</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow7_col2" class="data row7 col2" >$8,575,000</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow7_col3" class="data row7 col3" >Thriller</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow7_col4" class="data row7 col4" >June</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow7_col5" class="data row7 col5" >8.1</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow7_col6" class="data row7 col6" >0</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow7_col7" class="data row7 col7" >-77%</td> 
+        <th id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7clevel0_row7" class="row_heading level0 row7" >1989</th> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow7_col0" class="data row7 col0" >The Handmaiden</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow7_col1" class="data row7 col1" >$1,983,204</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow7_col2" class="data row7 col2" >$8,575,000</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow7_col3" class="data row7 col3" >Thriller</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow7_col4" class="data row7 col4" >June</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow7_col5" class="data row7 col5" >8.1</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow7_col6" class="data row7 col6" >0</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow7_col7" class="data row7 col7" >-77%</td> 
     </tr>    <tr> 
-        <th id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7clevel0_row8" class="row_heading level0 row8" >1779</th> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow8_col0" class="data row8 col0" >Room</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow8_col1" class="data row8 col1" >$35,401,758</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow8_col2" class="data row8 col2" >$6,000,000</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow8_col3" class="data row8 col3" >Drama</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow8_col4" class="data row8 col4" >October</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow8_col5" class="data row8 col5" >8.1</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow8_col6" class="data row8 col6" >4</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow8_col7" class="data row8 col7" >490%</td> 
+        <th id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7clevel0_row8" class="row_heading level0 row8" >1779</th> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow8_col0" class="data row8 col0" >Room</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow8_col1" class="data row8 col1" >$35,401,758</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow8_col2" class="data row8 col2" >$6,000,000</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow8_col3" class="data row8 col3" >Drama</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow8_col4" class="data row8 col4" >October</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow8_col5" class="data row8 col5" >8.1</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow8_col6" class="data row8 col6" >4</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow8_col7" class="data row8 col7" >490%</td> 
     </tr>    <tr> 
-        <th id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7clevel0_row9" class="row_heading level0 row9" >977</th> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow9_col0" class="data row9 col0" >Louis C.K.: Live at the Beacon Theater</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow9_col1" class="data row9 col1" >$1,000,000</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow9_col2" class="data row9 col2" >$250,000</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow9_col3" class="data row9 col3" >Comedy</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow9_col4" class="data row9 col4" >December</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow9_col5" class="data row9 col5" >8.1</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow9_col6" class="data row9 col6" >0</td> 
-        <td id="T_0676cc1a_3b8f_11e8_9738_3ca067dc5c7crow9_col7" class="data row9 col7" >300%</td> 
+        <th id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7clevel0_row9" class="row_heading level0 row9" >977</th> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow9_col0" class="data row9 col0" >Louis C.K.: Live at the Beacon Theater</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow9_col1" class="data row9 col1" >$1,000,000</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow9_col2" class="data row9 col2" >$250,000</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow9_col3" class="data row9 col3" >Comedy</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow9_col4" class="data row9 col4" >December</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow9_col5" class="data row9 col5" >8.1</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow9_col6" class="data row9 col6" >0</td> 
+        <td id="T_3a139da8_3ceb_11e8_bcce_3ca067dc5c7crow9_col7" class="data row9 col7" >300%</td> 
     </tr></tbody> 
 </table> 
 
@@ -862,8 +862,8 @@ movdat_df['release_month'].value_counts()
     May          174
     July         167
     April        166
-    June         164
     November     164
+    June         164
     January      163
     Name: release_month, dtype: int64
 
@@ -910,7 +910,7 @@ g4.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}', '
 
 <style  type="text/css" >
 </style>  
-<table id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7c" > 
+<table id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7c" > 
 <thead>    <tr> 
         <th class="blank level0" ></th> 
         <th class="col_heading level0 col0" >genres</th> 
@@ -921,53 +921,53 @@ g4.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}', '
         <th class="col_heading level0 col5" >roi</th> 
     </tr></thead> 
 <tbody>    <tr> 
-        <th id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7clevel0_row0" class="row_heading level0 row0" >0</th> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow0_col0" class="data row0 col0" >Action</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow0_col1" class="data row0 col1" >$75,043,861,342</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow0_col2" class="data row0 col2" >$24,686,812,673</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow0_col3" class="data row0 col3" >45</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow0_col4" class="data row0 col4" >6.1</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow0_col5" class="data row0 col5" >204%</td> 
+        <th id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7clevel0_row0" class="row_heading level0 row0" >0</th> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow0_col0" class="data row0 col0" >Action</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow0_col1" class="data row0 col1" >$75,043,861,342</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow0_col2" class="data row0 col2" >$24,686,812,673</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow0_col3" class="data row0 col3" >45</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow0_col4" class="data row0 col4" >6.1</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow0_col5" class="data row0 col5" >204%</td> 
     </tr>    <tr> 
-        <th id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7clevel0_row1" class="row_heading level0 row1" >1</th> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow1_col0" class="data row1 col0" >Adventure</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow1_col1" class="data row1 col1" >$38,384,582,208</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow1_col2" class="data row1 col2" >$13,505,729,594</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow1_col3" class="data row1 col3" >32</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow1_col4" class="data row1 col4" >6.3</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow1_col5" class="data row1 col5" >184%</td> 
+        <th id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7clevel0_row1" class="row_heading level0 row1" >1</th> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow1_col0" class="data row1 col0" >Adventure</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow1_col1" class="data row1 col1" >$38,384,582,208</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow1_col2" class="data row1 col2" >$13,505,729,594</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow1_col3" class="data row1 col3" >32</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow1_col4" class="data row1 col4" >6.3</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow1_col5" class="data row1 col5" >184%</td> 
     </tr>    <tr> 
-        <th id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7clevel0_row2" class="row_heading level0 row2" >3</th> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow2_col0" class="data row2 col0" >Comedy</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow2_col1" class="data row2 col1" >$30,569,734,424</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow2_col2" class="data row2 col2" >$10,457,845,667</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow2_col3" class="data row2 col3" >42</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow2_col4" class="data row2 col4" >6.0</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow2_col5" class="data row2 col5" >192%</td> 
+        <th id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7clevel0_row2" class="row_heading level0 row2" >3</th> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow2_col0" class="data row2 col0" >Comedy</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow2_col1" class="data row2 col1" >$30,569,734,424</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow2_col2" class="data row2 col2" >$10,457,845,667</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow2_col3" class="data row2 col3" >42</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow2_col4" class="data row2 col4" >6.0</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow2_col5" class="data row2 col5" >192%</td> 
     </tr>    <tr> 
-        <th id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7clevel0_row3" class="row_heading level0 row3" >6</th> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow3_col0" class="data row3 col0" >Drama</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow3_col1" class="data row3 col1" >$28,356,420,918</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow3_col2" class="data row3 col2" >$10,693,547,761</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow3_col3" class="data row3 col3" >247</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow3_col4" class="data row3 col4" >6.5</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow3_col5" class="data row3 col5" >165%</td> 
+        <th id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7clevel0_row3" class="row_heading level0 row3" >6</th> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow3_col0" class="data row3 col0" >Drama</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow3_col1" class="data row3 col1" >$28,356,420,918</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow3_col2" class="data row3 col2" >$10,693,547,761</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow3_col3" class="data row3 col3" >247</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow3_col4" class="data row3 col4" >6.5</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow3_col5" class="data row3 col5" >165%</td> 
     </tr>    <tr> 
-        <th id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7clevel0_row4" class="row_heading level0 row4" >2</th> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow4_col0" class="data row4 col0" >Animation</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow4_col1" class="data row4 col1" >$24,190,848,980</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow4_col2" class="data row4 col2" >$6,672,784,588</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow4_col3" class="data row4 col3" >21</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow4_col4" class="data row4 col4" >6.5</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow4_col5" class="data row4 col5" >263%</td> 
+        <th id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7clevel0_row4" class="row_heading level0 row4" >2</th> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow4_col0" class="data row4 col0" >Animation</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow4_col1" class="data row4 col1" >$24,190,848,980</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow4_col2" class="data row4 col2" >$6,672,784,588</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow4_col3" class="data row4 col3" >21</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow4_col4" class="data row4 col4" >6.5</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow4_col5" class="data row4 col5" >263%</td> 
     </tr>    <tr> 
-        <th id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7clevel0_row5" class="row_heading level0 row5" >15</th> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow5_col0" class="data row5 col0" >Science Fiction</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow5_col1" class="data row5 col1" >$11,274,598,085</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow5_col2" class="data row5 col2" >$3,161,420,003</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow5_col3" class="data row5 col3" >14</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow5_col4" class="data row5 col4" >6.4</td> 
-        <td id="T_32f55ed4_3b8f_11e8_8a90_3ca067dc5c7crow5_col5" class="data row5 col5" >257%</td> 
+        <th id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7clevel0_row5" class="row_heading level0 row5" >15</th> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow5_col0" class="data row5 col0" >Science Fiction</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow5_col1" class="data row5 col1" >$11,274,598,085</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow5_col2" class="data row5 col2" >$3,161,420,003</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow5_col3" class="data row5 col3" >14</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow5_col4" class="data row5 col4" >6.4</td> 
+        <td id="T_504d6390_3ceb_11e8_9311_3ca067dc5c7crow5_col5" class="data row5 col5" >257%</td> 
     </tr></tbody> 
 </table> 
 
@@ -1147,8 +1147,7 @@ plt.show()
 
 
 ```python
-movcor = movdat_df.drop(columns=['roi'])
-movcor.corr()
+movdat_df.corr()
 ```
 
 
@@ -1176,6 +1175,7 @@ movcor.corr()
       <th>budget</th>
       <th>vote_average</th>
       <th>award_noms</th>
+      <th>roi</th>
     </tr>
   </thead>
   <tbody>
@@ -1185,6 +1185,7 @@ movcor.corr()
       <td>0.783859</td>
       <td>0.193535</td>
       <td>0.197553</td>
+      <td>-0.006056</td>
     </tr>
     <tr>
       <th>budget</th>
@@ -1192,6 +1193,7 @@ movcor.corr()
       <td>1.000000</td>
       <td>0.074723</td>
       <td>0.094426</td>
+      <td>-0.024073</td>
     </tr>
     <tr>
       <th>vote_average</th>
@@ -1199,6 +1201,7 @@ movcor.corr()
       <td>0.074723</td>
       <td>1.000000</td>
       <td>0.245995</td>
+      <td>-0.027562</td>
     </tr>
     <tr>
       <th>award_noms</th>
@@ -1206,165 +1209,14 @@ movcor.corr()
       <td>0.094426</td>
       <td>0.245995</td>
       <td>1.000000</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-
-```python
-g3.corr()
-```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>revenue</th>
-      <th>budget</th>
-      <th>award_noms</th>
-      <th>vote_average</th>
-      <th>roi</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>revenue</th>
-      <td>1.000000</td>
-      <td>0.994348</td>
-      <td>0.376329</td>
-      <td>-0.105804</td>
-      <td>-0.017470</td>
-    </tr>
-    <tr>
-      <th>budget</th>
-      <td>0.994348</td>
-      <td>1.000000</td>
-      <td>0.423200</td>
-      <td>-0.100747</td>
-      <td>-0.099370</td>
-    </tr>
-    <tr>
-      <th>award_noms</th>
-      <td>0.376329</td>
-      <td>0.423200</td>
-      <td>1.000000</td>
-      <td>0.171929</td>
-      <td>-0.194001</td>
-    </tr>
-    <tr>
-      <th>vote_average</th>
-      <td>-0.105804</td>
-      <td>-0.100747</td>
-      <td>0.171929</td>
-      <td>1.000000</td>
-      <td>-0.258650</td>
+      <td>-0.004273</td>
     </tr>
     <tr>
       <th>roi</th>
-      <td>-0.017470</td>
-      <td>-0.099370</td>
-      <td>-0.194001</td>
-      <td>-0.258650</td>
-      <td>1.000000</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-
-```python
-mo3.corr()
-```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>revenue</th>
-      <th>budget</th>
-      <th>award_noms</th>
-      <th>vote_average</th>
-      <th>roi</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>revenue</th>
-      <td>1.000000</td>
-      <td>0.958641</td>
-      <td>0.202686</td>
-      <td>0.576018</td>
-      <td>0.901279</td>
-    </tr>
-    <tr>
-      <th>budget</th>
-      <td>0.958641</td>
-      <td>1.000000</td>
-      <td>0.250427</td>
-      <td>0.660786</td>
-      <td>0.757538</td>
-    </tr>
-    <tr>
-      <th>award_noms</th>
-      <td>0.202686</td>
-      <td>0.250427</td>
-      <td>1.000000</td>
-      <td>0.800369</td>
-      <td>0.153446</td>
-    </tr>
-    <tr>
-      <th>vote_average</th>
-      <td>0.576018</td>
-      <td>0.660786</td>
-      <td>0.800369</td>
-      <td>1.000000</td>
-      <td>0.444587</td>
-    </tr>
-    <tr>
-      <th>roi</th>
-      <td>0.901279</td>
-      <td>0.757538</td>
-      <td>0.153446</td>
-      <td>0.444587</td>
+      <td>-0.006056</td>
+      <td>-0.024073</td>
+      <td>-0.027562</td>
+      <td>-0.004273</td>
       <td>1.000000</td>
     </tr>
   </tbody>
@@ -1377,14 +1229,460 @@ mo3.corr()
 ```python
 cmap = sns.diverging_palette(220, 10, as_cmap=True)
 plt.subplots(figsize=(11, 7))
-sns.heatmap(movcor.corr(),cmap=cmap,vmin=-0.1, center=0)
+sns.heatmap(movdat_df.corr(),cmap=cmap,vmin=-0.1, center=0)
 plt.title("Correlation Heatmap")
 plt.savefig("Correlation Heatmap")
 plt.show()
 ```
 
 
-![png](output_31_0.png)
+![png](output_29_0.png)
+
+
+
+```python
+movdat_df.corr()
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>revenue</th>
+      <th>budget</th>
+      <th>vote_average</th>
+      <th>award_noms</th>
+      <th>roi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>revenue</th>
+      <td>1.000000</td>
+      <td>0.783859</td>
+      <td>0.193535</td>
+      <td>0.197553</td>
+      <td>-0.006056</td>
+    </tr>
+    <tr>
+      <th>budget</th>
+      <td>0.783859</td>
+      <td>1.000000</td>
+      <td>0.074723</td>
+      <td>0.094426</td>
+      <td>-0.024073</td>
+    </tr>
+    <tr>
+      <th>vote_average</th>
+      <td>0.193535</td>
+      <td>0.074723</td>
+      <td>1.000000</td>
+      <td>0.245995</td>
+      <td>-0.027562</td>
+    </tr>
+    <tr>
+      <th>award_noms</th>
+      <td>0.197553</td>
+      <td>0.094426</td>
+      <td>0.245995</td>
+      <td>1.000000</td>
+      <td>-0.004273</td>
+    </tr>
+    <tr>
+      <th>roi</th>
+      <td>-0.006056</td>
+      <td>-0.024073</td>
+      <td>-0.027562</td>
+      <td>-0.004273</td>
+      <td>1.000000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+actmov = movdat_df.query("genres=='Action'")
+actmov.corr()
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>revenue</th>
+      <th>budget</th>
+      <th>vote_average</th>
+      <th>award_noms</th>
+      <th>roi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>revenue</th>
+      <td>1.000000</td>
+      <td>0.775657</td>
+      <td>0.333995</td>
+      <td>0.352148</td>
+      <td>-0.016927</td>
+    </tr>
+    <tr>
+      <th>budget</th>
+      <td>0.775657</td>
+      <td>1.000000</td>
+      <td>0.220649</td>
+      <td>0.195279</td>
+      <td>-0.043746</td>
+    </tr>
+    <tr>
+      <th>vote_average</th>
+      <td>0.333995</td>
+      <td>0.220649</td>
+      <td>1.000000</td>
+      <td>0.184407</td>
+      <td>0.092701</td>
+    </tr>
+    <tr>
+      <th>award_noms</th>
+      <td>0.352148</td>
+      <td>0.195279</td>
+      <td>0.184407</td>
+      <td>1.000000</td>
+      <td>-0.002326</td>
+    </tr>
+    <tr>
+      <th>roi</th>
+      <td>-0.016927</td>
+      <td>-0.043746</td>
+      <td>0.092701</td>
+      <td>-0.002326</td>
+      <td>1.000000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+dramov = movdat_df.query("genres=='Drama'")
+dramov.corr()
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>revenue</th>
+      <th>budget</th>
+      <th>vote_average</th>
+      <th>award_noms</th>
+      <th>roi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>revenue</th>
+      <td>1.000000</td>
+      <td>0.704408</td>
+      <td>0.261886</td>
+      <td>0.360416</td>
+      <td>0.141592</td>
+    </tr>
+    <tr>
+      <th>budget</th>
+      <td>0.704408</td>
+      <td>1.000000</td>
+      <td>0.078533</td>
+      <td>0.117167</td>
+      <td>-0.085324</td>
+    </tr>
+    <tr>
+      <th>vote_average</th>
+      <td>0.261886</td>
+      <td>0.078533</td>
+      <td>1.000000</td>
+      <td>0.296729</td>
+      <td>0.175056</td>
+    </tr>
+    <tr>
+      <th>award_noms</th>
+      <td>0.360416</td>
+      <td>0.117167</td>
+      <td>0.296729</td>
+      <td>1.000000</td>
+      <td>0.123833</td>
+    </tr>
+    <tr>
+      <th>roi</th>
+      <td>0.141592</td>
+      <td>-0.085324</td>
+      <td>0.175056</td>
+      <td>0.123833</td>
+      <td>1.000000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+actdram = [actmov, dramov]
+twogenre= pd.concat(actdram)
+sns.lmplot(x="budget", y="revenue", hue="genres",size=6, data=twogenre);
+```
+
+
+![png](output_33_0.png)
+
+
+
+```python
+sns.pairplot(twogenre, x_vars=["vote_average", "award_noms"], hue="genres", y_vars=["revenue"],
+             size=6, aspect=.8, kind="reg");
+```
+
+
+![png](output_34_0.png)
+
+
+
+```python
+junemov = movdat_df.query("release_month=='June'")
+junemov.corr()
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>revenue</th>
+      <th>budget</th>
+      <th>vote_average</th>
+      <th>award_noms</th>
+      <th>roi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>revenue</th>
+      <td>1.000000</td>
+      <td>0.737119</td>
+      <td>0.156925</td>
+      <td>0.168653</td>
+      <td>0.381141</td>
+    </tr>
+    <tr>
+      <th>budget</th>
+      <td>0.737119</td>
+      <td>1.000000</td>
+      <td>-0.029203</td>
+      <td>0.136053</td>
+      <td>-0.016479</td>
+    </tr>
+    <tr>
+      <th>vote_average</th>
+      <td>0.156925</td>
+      <td>-0.029203</td>
+      <td>1.000000</td>
+      <td>0.239110</td>
+      <td>0.214405</td>
+    </tr>
+    <tr>
+      <th>award_noms</th>
+      <td>0.168653</td>
+      <td>0.136053</td>
+      <td>0.239110</td>
+      <td>1.000000</td>
+      <td>0.102716</td>
+    </tr>
+    <tr>
+      <th>roi</th>
+      <td>0.381141</td>
+      <td>-0.016479</td>
+      <td>0.214405</td>
+      <td>0.102716</td>
+      <td>1.000000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+decmov = movdat_df.query("release_month=='December'")
+decmov.corr()
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>revenue</th>
+      <th>budget</th>
+      <th>vote_average</th>
+      <th>award_noms</th>
+      <th>roi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>revenue</th>
+      <td>1.000000</td>
+      <td>0.737371</td>
+      <td>0.224114</td>
+      <td>0.317259</td>
+      <td>-0.027718</td>
+    </tr>
+    <tr>
+      <th>budget</th>
+      <td>0.737371</td>
+      <td>1.000000</td>
+      <td>0.055310</td>
+      <td>0.128229</td>
+      <td>-0.073586</td>
+    </tr>
+    <tr>
+      <th>vote_average</th>
+      <td>0.224114</td>
+      <td>0.055310</td>
+      <td>1.000000</td>
+      <td>0.321827</td>
+      <td>0.102825</td>
+    </tr>
+    <tr>
+      <th>award_noms</th>
+      <td>0.317259</td>
+      <td>0.128229</td>
+      <td>0.321827</td>
+      <td>1.000000</td>
+      <td>-0.016715</td>
+    </tr>
+    <tr>
+      <th>roi</th>
+      <td>-0.027718</td>
+      <td>-0.073586</td>
+      <td>0.102825</td>
+      <td>-0.016715</td>
+      <td>1.000000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+jundec = [junemov, decmov]
+twomonth= pd.concat(jundec)
+sns.lmplot(x="budget", y="revenue", hue="release_month", size=6, data=twomonth);
+```
+
+
+![png](output_37_0.png)
+
+
+
+```python
+sns.pairplot(twomonth, x_vars=["vote_average", "award_noms"], hue="release_month", y_vars=["revenue"],
+             size=6, aspect=.8, kind="reg");
+```
+
+
+![png](output_38_0.png)
 
 
 #Scatter plots
@@ -1403,39 +1701,7 @@ sns.jointplot('budget','revenue',data=movdat_df,kind="reg")
 
 
 
-![png](output_33_1.png)
-
-
-
-```python
-sns.jointplot('budget','revenue',data=g3,kind="reg")
-```
-
-
-
-
-    <seaborn.axisgrid.JointGrid at 0x2208f33e710>
-
-
-
-
-![png](output_34_1.png)
-
-
-
-```python
-sns.jointplot('budget','revenue',data=mo3,kind="reg")
-```
-
-
-
-
-    <seaborn.axisgrid.JointGrid at 0x2208e8daeb8>
-
-
-
-
-![png](output_35_1.png)
+![png](output_40_1.png)
 
 
 
@@ -1451,7 +1717,7 @@ sns.jointplot('vote_average','revenue',data=movdat_df,kind="reg")
 
 
 
-![png](output_36_1.png)
+![png](output_41_1.png)
 
 
 
@@ -1467,23 +1733,23 @@ sns.jointplot('award_noms','revenue',data=movdat_df,kind="reg")
 
 
 
-![png](output_37_1.png)
+![png](output_42_1.png)
 
 
 
 ```python
-sns.jointplot('roi','revenue',data=mo3,kind="reg")
+sns.distplot(movdat_df['revenue'])
 ```
 
 
 
 
-    <seaborn.axisgrid.JointGrid at 0x2208eb90a58>
+    <matplotlib.axes._subplots.AxesSubplot at 0x1c9bab26f98>
 
 
 
 
-![png](output_38_1.png)
+![png](output_43_1.png)
 
 
 
@@ -1494,10 +1760,10 @@ sns.distplot(movdat_df['budget'])
 
 
 
-    <matplotlib.axes._subplots.AxesSubplot at 0x2208f2232e8>
+    <matplotlib.axes._subplots.AxesSubplot at 0x1c9b99704a8>
 
 
 
 
-![png](output_39_1.png)
+![png](output_44_1.png)
 
