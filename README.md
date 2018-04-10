@@ -6,6 +6,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy import stats, integrate
 import seaborn as sns
+import os
+import csv
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+analyzer = SentimentIntensityAnalyzer()
 ```
 
 
@@ -855,8 +859,8 @@ movdat_df['release_month'].value_counts()
 
     September    298
     October      214
-    August       189
     December     189
+    August       189
     February     178
     March        176
     May          174
@@ -870,21 +874,6 @@ movdat_df['release_month'].value_counts()
 
 
 #Totals for the dataset
-
-
-```python
-tr = g3['revenue'].sum()
-tb = g3['budget'].sum()
-tan = g3['award_noms'].sum()
-print("The total revenue for all movies in dataset is " + '${0:,d}'.format(tr))
-print("The total budget costs for all movies in dataset is " + '${0:,d}'.format(tb))
-print("The total number of award nominations in the dataset is " + str(tan))
-```
-
-    The total revenue for all movies in dataset is $257,404,723,585
-    The total budget costs for all movies in dataset is $86,553,808,938
-    The total number of award nominations in the dataset is 521
-    
 
 # Top Genres Chart and Bar Plot
 
@@ -975,6 +964,21 @@ g4.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}', '
 
 
 ```python
+tr = g3['revenue'].sum()
+tb = g3['budget'].sum()
+tan = g3['award_noms'].sum()
+print("The total revenue for all movies in dataset is " + '${0:,d}'.format(tr))
+print("The total budget costs for all movies in dataset is " + '${0:,d}'.format(tb))
+print("The total number of award nominations in the dataset is " + str(tan))
+```
+
+    The total revenue for all movies in dataset is $257,404,723,585
+    The total budget costs for all movies in dataset is $86,553,808,938
+    The total number of award nominations in the dataset is 521
+    
+
+
+```python
 plt.subplots(figsize=(11, 7))
 sns.set_color_codes("pastel")
 sns.barplot(x="revenue", y="genres", data=g4,label="Revenue", color="b")
@@ -1014,7 +1018,7 @@ mo3.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}', 
 
 <style  type="text/css" >
 </style>  
-<table id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7c" > 
+<table id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995" > 
 <thead>    <tr> 
         <th class="blank level0" ></th> 
         <th class="col_heading level0 col0" >release_month</th> 
@@ -1025,101 +1029,101 @@ mo3.style.format({'revenue': "${:,.0f}", 'budget': '${:,.0f}', 'roi': '{:.0%}', 
         <th class="col_heading level0 col5" >roi</th> 
     </tr></thead> 
 <tbody>    <tr> 
-        <th id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7clevel0_row0" class="row_heading level0 row0" >6</th> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow0_col0" class="data row0 col0" >June</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow0_col1" class="data row0 col1" >$37,458,553,218</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow0_col2" class="data row0 col2" >$10,053,027,964</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow0_col3" class="data row0 col3" >20</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow0_col4" class="data row0 col4" >6.3</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow0_col5" class="data row0 col5" >273%</td> 
+        <th id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995level0_row0" class="row_heading level0 row0" >6</th> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row0_col0" class="data row0 col0" >June</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row0_col1" class="data row0 col1" >$37,458,553,218</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row0_col2" class="data row0 col2" >$10,053,027,964</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row0_col3" class="data row0 col3" >20</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row0_col4" class="data row0 col4" >6.3</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row0_col5" class="data row0 col5" >273%</td> 
     </tr>    <tr> 
-        <th id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7clevel0_row1" class="row_heading level0 row1" >2</th> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow1_col0" class="data row1 col0" >December</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow1_col1" class="data row1 col1" >$29,682,127,801</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow1_col2" class="data row1 col2" >$9,099,080,528</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow1_col3" class="data row1 col3" >101</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow1_col4" class="data row1 col4" >6.3</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow1_col5" class="data row1 col5" >226%</td> 
+        <th id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995level0_row1" class="row_heading level0 row1" >2</th> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row1_col0" class="data row1 col0" >December</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row1_col1" class="data row1 col1" >$29,682,127,801</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row1_col2" class="data row1 col2" >$9,099,080,528</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row1_col3" class="data row1 col3" >101</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row1_col4" class="data row1 col4" >6.3</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row1_col5" class="data row1 col5" >226%</td> 
     </tr>    <tr> 
-        <th id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7clevel0_row2" class="row_heading level0 row2" >0</th> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow2_col0" class="data row2 col0" >April</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow2_col1" class="data row2 col1" >$21,329,321,356</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow2_col2" class="data row2 col2" >$6,582,837,936</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow2_col3" class="data row2 col3" >2</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow2_col4" class="data row2 col4" >6.1</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow2_col5" class="data row2 col5" >224%</td> 
+        <th id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995level0_row2" class="row_heading level0 row2" >0</th> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row2_col0" class="data row2 col0" >April</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row2_col1" class="data row2 col1" >$21,329,321,356</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row2_col2" class="data row2 col2" >$6,582,837,936</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row2_col3" class="data row2 col3" >2</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row2_col4" class="data row2 col4" >6.1</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row2_col5" class="data row2 col5" >224%</td> 
     </tr>    <tr> 
-        <th id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7clevel0_row3" class="row_heading level0 row3" >9</th> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow3_col0" class="data row3 col0" >November</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow3_col1" class="data row3 col1" >$22,418,144,562</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow3_col2" class="data row3 col2" >$7,181,503,469</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow3_col3" class="data row3 col3" >133</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow3_col4" class="data row3 col4" >6.5</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow3_col5" class="data row3 col5" >212%</td> 
+        <th id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995level0_row3" class="row_heading level0 row3" >9</th> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row3_col0" class="data row3 col0" >November</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row3_col1" class="data row3 col1" >$22,418,144,562</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row3_col2" class="data row3 col2" >$7,181,503,469</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row3_col3" class="data row3 col3" >133</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row3_col4" class="data row3 col4" >6.5</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row3_col5" class="data row3 col5" >212%</td> 
     </tr>    <tr> 
-        <th id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7clevel0_row4" class="row_heading level0 row4" >5</th> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow4_col0" class="data row4 col0" >July</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow4_col1" class="data row4 col1" >$24,704,426,548</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow4_col2" class="data row4 col2" >$8,080,515,448</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow4_col3" class="data row4 col3" >32</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow4_col4" class="data row4 col4" >6.2</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow4_col5" class="data row4 col5" >206%</td> 
+        <th id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995level0_row4" class="row_heading level0 row4" >5</th> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row4_col0" class="data row4 col0" >July</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row4_col1" class="data row4 col1" >$24,704,426,548</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row4_col2" class="data row4 col2" >$8,080,515,448</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row4_col3" class="data row4 col3" >32</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row4_col4" class="data row4 col4" >6.2</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row4_col5" class="data row4 col5" >206%</td> 
     </tr>    <tr> 
-        <th id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7clevel0_row5" class="row_heading level0 row5" >8</th> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow5_col0" class="data row5 col0" >May</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow5_col1" class="data row5 col1" >$27,325,073,348</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow5_col2" class="data row5 col2" >$9,387,618,741</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow5_col3" class="data row5 col3" >46</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow5_col4" class="data row5 col4" >6.4</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow5_col5" class="data row5 col5" >191%</td> 
+        <th id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995level0_row5" class="row_heading level0 row5" >8</th> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row5_col0" class="data row5 col0" >May</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row5_col1" class="data row5 col1" >$27,325,073,348</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row5_col2" class="data row5 col2" >$9,387,618,741</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row5_col3" class="data row5 col3" >46</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row5_col4" class="data row5 col4" >6.4</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row5_col5" class="data row5 col5" >191%</td> 
     </tr>    <tr> 
-        <th id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7clevel0_row6" class="row_heading level0 row6" >3</th> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow6_col0" class="data row6 col0" >February</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow6_col1" class="data row6 col1" >$15,577,154,469</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow6_col2" class="data row6 col2" >$5,556,232,967</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow6_col3" class="data row6 col3" >19</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow6_col4" class="data row6 col4" >6.2</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow6_col5" class="data row6 col5" >180%</td> 
+        <th id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995level0_row6" class="row_heading level0 row6" >3</th> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row6_col0" class="data row6 col0" >February</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row6_col1" class="data row6 col1" >$15,577,154,469</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row6_col2" class="data row6 col2" >$5,556,232,967</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row6_col3" class="data row6 col3" >19</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row6_col4" class="data row6 col4" >6.2</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row6_col5" class="data row6 col5" >180%</td> 
     </tr>    <tr> 
-        <th id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7clevel0_row7" class="row_heading level0 row7" >7</th> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow7_col0" class="data row7 col0" >March</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow7_col1" class="data row7 col1" >$21,226,776,059</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow7_col2" class="data row7 col2" >$7,761,220,129</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow7_col3" class="data row7 col3" >8</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow7_col4" class="data row7 col4" >6.2</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow7_col5" class="data row7 col5" >173%</td> 
+        <th id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995level0_row7" class="row_heading level0 row7" >7</th> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row7_col0" class="data row7 col0" >March</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row7_col1" class="data row7 col1" >$21,226,776,059</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row7_col2" class="data row7 col2" >$7,761,220,129</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row7_col3" class="data row7 col3" >8</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row7_col4" class="data row7 col4" >6.2</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row7_col5" class="data row7 col5" >173%</td> 
     </tr>    <tr> 
-        <th id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7clevel0_row8" class="row_heading level0 row8" >10</th> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow8_col0" class="data row8 col0" >October</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow8_col1" class="data row8 col1" >$17,881,531,302</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow8_col2" class="data row8 col2" >$6,603,895,033</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow8_col3" class="data row8 col3" >65</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow8_col4" class="data row8 col4" >6.3</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow8_col5" class="data row8 col5" >171%</td> 
+        <th id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995level0_row8" class="row_heading level0 row8" >10</th> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row8_col0" class="data row8 col0" >October</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row8_col1" class="data row8 col1" >$17,881,531,302</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row8_col2" class="data row8 col2" >$6,603,895,033</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row8_col3" class="data row8 col3" >65</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row8_col4" class="data row8 col4" >6.3</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row8_col5" class="data row8 col5" >171%</td> 
     </tr>    <tr> 
-        <th id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7clevel0_row9" class="row_heading level0 row9" >1</th> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow9_col0" class="data row9 col0" >August</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow9_col1" class="data row9 col1" >$14,567,168,524</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow9_col2" class="data row9 col2" >$5,817,958,457</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow9_col3" class="data row9 col3" >34</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow9_col4" class="data row9 col4" >6.1</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow9_col5" class="data row9 col5" >150%</td> 
+        <th id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995level0_row9" class="row_heading level0 row9" >1</th> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row9_col0" class="data row9 col0" >August</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row9_col1" class="data row9 col1" >$14,567,168,524</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row9_col2" class="data row9 col2" >$5,817,958,457</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row9_col3" class="data row9 col3" >34</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row9_col4" class="data row9 col4" >6.1</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row9_col5" class="data row9 col5" >150%</td> 
     </tr>    <tr> 
-        <th id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7clevel0_row10" class="row_heading level0 row10" >11</th> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow10_col0" class="data row10 col0" >September</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow10_col1" class="data row10 col1" >$15,265,393,820</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow10_col2" class="data row10 col2" >$6,268,147,108</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow10_col3" class="data row10 col3" >59</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow10_col4" class="data row10 col4" >6.2</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow10_col5" class="data row10 col5" >144%</td> 
+        <th id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995level0_row10" class="row_heading level0 row10" >11</th> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row10_col0" class="data row10 col0" >September</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row10_col1" class="data row10 col1" >$15,265,393,820</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row10_col2" class="data row10 col2" >$6,268,147,108</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row10_col3" class="data row10 col3" >59</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row10_col4" class="data row10 col4" >6.2</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row10_col5" class="data row10 col5" >144%</td> 
     </tr>    <tr> 
-        <th id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7clevel0_row11" class="row_heading level0 row11" >4</th> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow11_col0" class="data row11 col0" >January</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow11_col1" class="data row11 col1" >$9,969,052,578</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow11_col2" class="data row11 col2" >$4,161,771,158</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow11_col3" class="data row11 col3" >2</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow11_col4" class="data row11 col4" >5.9</td> 
-        <td id="T_5725e6e4_3b8f_11e8_9cc4_3ca067dc5c7crow11_col5" class="data row11 col5" >140%</td> 
+        <th id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995level0_row11" class="row_heading level0 row11" >4</th> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row11_col0" class="data row11 col0" >January</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row11_col1" class="data row11 col1" >$9,969,052,578</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row11_col2" class="data row11 col2" >$4,161,771,158</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row11_col3" class="data row11 col3" >2</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row11_col4" class="data row11 col4" >5.9</td> 
+        <td id="T_338d38ee_3cf0_11e8_8a92_0028f8fc4995row11_col5" class="data row11 col5" >140%</td> 
     </tr></tbody> 
 </table> 
 
@@ -1700,7 +1704,6 @@ sns.jointplot('budget','revenue',data=movdat_df,kind="reg")
 
 
 
-
 ![png](output_40_1.png)
 
 
@@ -1712,7 +1715,7 @@ sns.jointplot('vote_average','revenue',data=movdat_df,kind="reg")
 
 
 
-    <seaborn.axisgrid.JointGrid at 0x2208ecd0828>
+    <seaborn.axisgrid.JointGrid at 0x1b823a19828>
 
 
 
@@ -1728,7 +1731,7 @@ sns.jointplot('award_noms','revenue',data=movdat_df,kind="reg")
 
 
 
-    <seaborn.axisgrid.JointGrid at 0x2208ec90390>
+    <seaborn.axisgrid.JointGrid at 0x1b823a04160>
 
 
 
@@ -1766,4 +1769,153 @@ sns.distplot(movdat_df['budget'])
 
 
 ![png](output_44_1.png)
+
+
+
+```python
+csv = os.path.join('santhosh.csv')
+movie_df = pd.read_csv(csv,encoding='latin-1')
+```
+
+# Sentiment Analysis
+
+
+```python
+movie_df = movie_df.dropna(subset = ['Overview'])
+movie_df['roi']=(movie_df['Revenue']-movie_df['Budget'])/movie_df['Budget']
+movie_df = movie_df[movie_df.roi<30]
+compound_list = []
+for overview in movie_df['Overview']:
+    compound = analyzer.polarity_scores(overview)["compound"]
+    compound_list.append(compound)
+movie_df['Sentiment Score']=compound_list
+```
+
+
+```python
+
+g = sns.jointplot("roi", "Sentiment Score", data=movie_df, kind="reg", color="r", size=7)
+plt.savefig('Sentiment Score Plot')
+```
+
+
+![png](output_43_0.png)
+
+
+# Top 10 Most Profitable Production Company
+
+
+```python
+#Form Dataframe grouped by production company
+movie_df_sum=movie_df.groupby(['Production Company']).sum()
+movie_df_sum['ROI']=(movie_df_sum['Revenue']-movie_df_sum['Budget'])/movie_df_sum['Budget']
+movie_df_sum=movie_df_sum.sort_values(['ROI'],ascending = False)
+movie_df_sum = movie_df_sum[movie_df_sum.ROI<150]
+movie_df_sum = movie_df_sum.reset_index()
+movie_df_sum.head()
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Production Company</th>
+      <th>Movie ID</th>
+      <th>Budget</th>
+      <th>Revenue</th>
+      <th>roi</th>
+      <th>Sentiment Score</th>
+      <th>ROI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Room 101</td>
+      <td>82990.0</td>
+      <td>5000000.0</td>
+      <td>142817992.0</td>
+      <td>27.563598</td>
+      <td>-0.2023</td>
+      <td>27.563598</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Evergreen Media Group</td>
+      <td>138843.0</td>
+      <td>13000000.0</td>
+      <td>318000141.0</td>
+      <td>23.461549</td>
+      <td>-0.8070</td>
+      <td>23.461549</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Atomic Monster</td>
+      <td>742333.0</td>
+      <td>19900000.0</td>
+      <td>453961036.0</td>
+      <td>48.720875</td>
+      <td>-1.2688</td>
+      <td>21.812112</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>White Noise Factory</td>
+      <td>242512.0</td>
+      <td>5000000.0</td>
+      <td>103590271.0</td>
+      <td>19.718054</td>
+      <td>-0.6087</td>
+      <td>19.718054</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Filmax</td>
+      <td>8329.0</td>
+      <td>1500000.0</td>
+      <td>30448000.0</td>
+      <td>19.298667</td>
+      <td>-0.7430</td>
+      <td>19.298667</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+#Plot bargraph using the top 10 production company (measuring efficiency of each production company)
+y_axis = movie_df_sum['Production Company'][0:10]
+x_axis = movie_df_sum['ROI'][0:10]
+sns.set_color_codes("pastel")
+sns.barplot(x=x_axis, y=y_axis, data=movie_df_sum,label="Revenue", color="b")
+sns.set_color_codes("muted")
+plt.xlabel("ROI")
+plt.title("Profitability by Production Company")
+plt.savefig("Top Production Companies")
+plt.show()
+```
+
+
+![png](output_46_0.png)
 
